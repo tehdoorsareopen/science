@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisioDocument>
+	<DocumentProperties>
+		<Title></Title>
+		<HyperlinkBase href=""></HyperlinkBase>
+	</DocumentProperties>
+	<Pages>
+		<Page ID="0" Name="Page-1" NameU="Page-1">
+			<Shapes>
+				<Shape ID="1" UniqueID="{2C826A1D-8F87-4685-B3EA-511FA115C7A6}" Name="Ellipse" NameU="Ellipse" Master="0">
+					<Text>0.1. Основные игроки
+
+Facebook (2004)
+Renren (2005)
+Vk (2006)
+</Text>
+					<XForm>
+						<PinX Unit="MM">3.740157480314959</PinX>
+						<PinY Unit="MM">6.692913385826772</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="2" UniqueID="{2B9D9B12-A28E-4E37-999F-5C54B43C913C}" Name="Ellipse.2" NameU="Ellipse.2" Master="0">
+					<Text>0.2. Новые участники
+
+Google+ (2011)
+Dudu (2011)
+Всети (2008)
+Sina Weibo (2009)</Text>
+					<XForm>
+						<PinX Unit="MM">6.574803149606299</PinX>
+						<PinY Unit="MM">8.228346456692913</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="4" UniqueID="{93959F6B-F3C5-41AB-9E50-6D660078DB3E}" Name="Ellipse.4" NameU="Ellipse.4" Master="0">
+					<Text>0.3. Субституты
+(1.1 Основные игроки)
+
+Flickr (2004)
+Instagram (2010)
+Twitter (2006)
+Myspace (2003)
+Foursquare (2009)</Text>
+					<XForm>
+						<PinX Unit="MM">6.299212598425197</PinX>
+						<PinY Unit="MM">5.433070866141733</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="3" UniqueID="{10B08D71-B748-44A5-B420-7DB055A2D627}" Name="Ellipse.3" NameU="Ellipse.3" Master="0">
+					<Text>0.4. Поставщики
+
+?</Text>
+					<XForm>
+						<PinX Unit="MM">1.574803149606299</PinX>
+						<PinY Unit="MM">4.724409448818898</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="5" UniqueID="{EBB3EB17-72BE-4EDC-9E33-2EBFB2AD206D}" Name="Ellipse.5" NameU="Ellipse.5" Master="0">
+					<Text>0.5. Покупатели
+
+?</Text>
+					<XForm>
+						<PinX Unit="MM">3.661417322834645</PinX>
+						<PinY Unit="MM">9.055118110236220</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="6" UniqueID="{004811D9-A66F-4474-B58D-F7B562A96583}" Name="Ellipse.6" NameU="Ellipse.6" Master="0">
+					<Text>0.6. Комплементоры
+
+?</Text>
+					<XForm>
+						<PinX Unit="MM">1.377952755905512</PinX>
+						<PinY Unit="MM">7.874015748031495</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="7" UniqueID="{0AF0649A-17AF-4B5C-93A6-0868DD4D10EA}" Name="Ellipse.7" NameU="Ellipse.7" Master="0">
+					<Text>1.2 Новые игроки
+
+?</Text>
+					<XForm>
+						<PinX Unit="MM">6.692913385826770</PinX>
+						<PinY Unit="MM">2.755905511811024</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="8" UniqueID="{C85A9308-D659-4C30-BBD7-75FCEAC88CD6}" Name="Ellipse.8" NameU="Ellipse.8" Master="0">
+					<Text>1.2 Субституты
+(2.1 Основные игроки)
+
+Форумы
+Чаты
+Lastfm</Text>
+					<XForm>
+						<PinX Unit="MM">3.543307086614172</PinX>
+						<PinY Unit="MM">3.228346456692914</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="9" UniqueID="{D83E29DB-22AC-43EE-BCE9-442654A11587}" Name="Sheet.9" NameU="Sheet.9">
+					<XForm>
+						<PinX Unit="MM">3.700787401574802</PinX>
+						<PinY Unit="MM">7.874015748031496</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="10" UniqueID="{7C4CE193-44C5-4109-866F-D7000324E995}" Name="Sheet.10" NameU="Sheet.10">
+					<XForm>
+						<PinX Unit="MM">2.477798020057761</PinX>
+						<PinY Unit="MM">7.203521338533601</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="11" UniqueID="{D5040F18-B7B7-4E4E-BBF0-8A0D97DFCC2D}" Name="Sheet.11" NameU="Sheet.11">
+					<XForm>
+						<PinX Unit="MM">4.981952714960979</PinX>
+						<PinY Unit="MM">7.740714134492676</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="12" UniqueID="{47C93CD4-DB24-4AB0-B6DE-87D63338D994}" Name="Sheet.12" NameU="Sheet.12">
+					<XForm>
+						<PinX Unit="MM">5.610236220472440</PinX>
+						<PinY Unit="MM">6.456692913385828</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="13" UniqueID="{3C9EEEF5-362F-4A2D-A3B1-2307E831D0B2}" Name="Sheet.13" NameU="Sheet.13">
+					<XForm>
+						<PinX Unit="MM">2.158126086357184</PinX>
+						<PinY Unit="MM">5.892181275388380</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="14" UniqueID="{F1E7148C-ADF0-4D3A-8640-8BE8067E9277}" Name="Sheet.14" NameU="Sheet.14">
+					<XForm>
+						<PinX Unit="MM">4.821729947331168</PinX>
+						<PinY Unit="MM">4.385820658835022</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="15" UniqueID="{E4E6D4F6-C7F8-4152-A654-43A4FF02FDDD}" Name="Sheet.15" NameU="Sheet.15">
+					<XForm>
+						<PinX Unit="MM">6.693867544977824</PinX>
+						<PinY Unit="MM">4.117229825363854</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="16" UniqueID="{BCF9F217-6391-41A7-8590-D5D52C607467}" Name="Ellipse.16" NameU="Ellipse.16" Master="0">
+					<Text>3.6 Новые игроки
+
+?</Text>
+					<XForm>
+						<PinX Unit="MM">1.692913385826772</PinX>
+						<PinY Unit="MM">1.377952755905512</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="17" UniqueID="{AD325F69-0A10-49D6-819A-C420542A0E45}" Name="Ellipse.17" NameU="Ellipse.17" Master="0">
+					<Text>3.4 Новые игроки
+
+?</Text>
+					<XForm>
+						<PinX Unit="MM">4.921259842519683</PinX>
+						<PinY Unit="MM">1.181102362204725</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="18" UniqueID="{C42BA968-D4A8-4582-A325-3BA0CB1BCBA9}" Name="Sheet.18" NameU="Sheet.18">
+					<XForm>
+						<PinX Unit="MM">4.318713881196221</PinX>
+						<PinY Unit="MM">2.228146789846185</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="19" UniqueID="{ACDB02CA-C134-419B-A230-D166AE96790A}" Name="Sheet.19" NameU="Sheet.19">
+					<XForm>
+						<PinX Unit="MM">2.392755986271039</PinX>
+						<PinY Unit="MM">2.391067448687426</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+	</Pages>
+</VisioDocument>
