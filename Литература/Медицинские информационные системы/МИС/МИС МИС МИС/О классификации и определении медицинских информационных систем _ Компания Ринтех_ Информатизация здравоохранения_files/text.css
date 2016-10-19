@@ -1,0 +1,92 @@
+body { font:normal 14px/20px Arial, Helvetica, sans-serif; color:#464646; }
+a:focus { outline: none; }
+a:hover { text-decoration:none !important; }
+	div.buttons a.eng { font:normal 11px/11px Arial, sans-serif; color:#999999; }
+	div.top-menu ul li a { font:normal 16px Arial, sans-serif; color:#333333; }
+		div.top-menu ul li a.no-active { cursor:default; }
+		div.top-menu ul li ul li a { font:normal 14px Arial, sans-serif; color:#ffffff; text-decoration:none; }
+	div.g-menu ul li a { text-decoration:none; }
+		div.g-menu ul li a span { width:235px; height:37px; font:bold 14px Arial, sans-serif; color:#FFFFFF; text-transform:uppercase; text-decoration:none; display: block;
+padding:14px 1px 4px; text-align:center; }
+	div.g-menu ul li div.sub-g-menu a { font:normal 15px/28px Arial, sans-serif; color:#333333;  text-decoration:underline; }
+		div.g-menu ul li div.sub-g-menu a:hover {  } /*text-transform:uppercase;*/
+div.b-menu ul li a {
+    font: bold 14px Arial, sans-serif;
+    color: #0094ae;
+    text-decoration: none;
+    text-transform: uppercase;
+
+
+    width: 100%;
+    position: absolute;
+    display: block;
+    height: 50px;
+    text-align: center;
+    padding-top: 90px;
+}
+
+div.b-menu ul li a.img{
+    top:0;
+    padding: 0;
+}
+
+
+
+		div.b-menu ul li a:hover{color:white !important;}
+		div.b-menu ul li.phones a { font-size:16px; }
+	
+	div.actual ul li div.a-center ul li { line-height:14.5px; }
+		div.actual ul li div.a-center ul li span { font:normal 12px/15px Arial, sans-serif; color:#aaaaaa; }
+		div.actual ul li div.a-center ul li a { font:normal 12px/13px Arial, sans-serif; color:#333333; text-decoration:none; }
+
+	div.actual ul li div.a-center ul.blogs li span.vote-1,
+	div.actual ul li div.a-center ul.blogs li span.vote-2 { font:10px Arial, sans-serif; color:#ffffff; text-align:center; }
+	div.actual ul li div.a-center ul.blogs li a { font-size:12px; color:#333333; text-decoration:none; display:block; }
+	
+		
+			div.actual ul li div.a-center ul.blogs li a.name:hover { text-decoration:none; }
+/*	div.actual ul li div.a-center ul.video li a { font:bold 14px/12px Arial, sans-serif; text-decoration:none; } */
+	div.footer { font-size:11px; line-height:15px; color:#999999; }
+		div.footer a { font-size:11px; line-height:15px; color:#0091af; }
+		
+	div.dochki { margin-bottom:58px; background: url("/img/logos-a.png") no-repeat scroll -9999px -9999px transparent; }
+		div.dochki div.logos-block { width:900px; height:70px; margin:0 auto auto; background: url("/img/logos-bg.png") repeat scroll 0 0 transparent; overflow:hidden; }
+		div.dochki a.arr-left,
+		div.dochki a.arr-right { width:10px; height:20px; display:block; margin:25px 0 0; position:absolute; background: url("/img/logos-arr.png") no-repeat scroll 0 0 transparent;}			
+		div.dochki a.arr-right { margin-left:930px; background-position:-10px 0; }
+		
+		div.dochki a.arr-left:hover { background-position:0 -20px; }
+		div.dochki a.arr-right:hover { background-position:-10px -20px; }
+		
+		
+			 div.dochki div.logos-block div.logos { width:1500px; height:70px; }
+				div.dochki div.logos-block div.logos a { width:60px; height:50px; display:block; margin:10px 15px; background: url("/img/logos.png") no-repeat scroll 0 0 transparent; float:left; text-decoration:none; }
+					div.dochki div.logos-block div.logos a span { height:50px; width:inherit; display: block; }
+				div.dochki div.logos-block div.logos a.it { background-position:0 0; }
+				div.dochki div.logos-block div.logos a.it-ss { background-position:-79px 0; }
+				div.dochki div.logos-block div.logos a.a-it { width:92px; background-position:-152px 0; }
+				div.dochki div.logos-block div.logos a.aplana { width:75px; background-position:-260px 0; }
+				div.dochki div.logos-block div.logos a.aplana-ss { width:100px; background-position:-360px 0; }
+				div.dochki div.logos-block div.logos a.boss { width:78px; background-position:-484px 0; }
+				div.dochki div.logos-block div.logos a.boss-r { width:124px; background-position:-586px 0; }
+				div.dochki div.logos-block div.logos a.lb { width:143px; background-position:-732px 0; }
+				div.dochki div.logos-block div.logos a.ps { width:63px; background-position:-895px 0; }
+				div.dochki div.logos-block div.logos a.mobico { width:62px;  background-position:-977px 0; }
+				div.dochki div.logos-block div.logos a.unicloud { width:106px; background-position:-1060px 0; }
+				div.dochki div.logos-block div.logos a.pingwin { width:80px; background-position:-1188px 0; }
+				div.dochki div.logos-block div.logos a.rinteh { width:77px; background-position:-1291px 0; }
+				div.dochki div.logos-block div.logos a.live_btn { width:77px; background-position:-1320px 0; }
+				
+				div.dochki div.logos-block div.logos a:hover { background-image:url("/img/logos-a.png"); }
+		
+				div.dochki div.logos-block div.logos a div { width:219px; }
+				div.dochki div.logos-block div.logos a div p.logos-text { background-color:#ffffff; border:1px solid #dddddd; border-bottom:none; color:#999999; font:11px Arial, Helvetica, sans-serif; text-decoration:none; margin:0; padding:10px; }
+				div.dochki div.logos-block div.logos a div p.sep { height:15px; background: url("/img/logos-com.png") no-repeat scroll center center transparent; margin:0; display:block; }
+		
+	ul#vertical-multilevel-menu li a:hover { background: url("/img/bmenu-bg-hov.png") no-repeat scroll 0px -11px transparent; color:#FFFFFF; }
+		ul#vertical-multilevel-menu li.multim-li-first a:hover { background:url("/img/menu_r_bckgr.gif") repeat scroll 0 0 transparent; color:#0091AF; cursor:default; }
+		body.body-services ul#vertical-multilevel-menu li.menu-right-center-last a:hover { background:none; color: #A7A7A7; }	
+		p.grey-font:hover { text-decoration:none; }
+div,
+
+p { text-align: justify; }

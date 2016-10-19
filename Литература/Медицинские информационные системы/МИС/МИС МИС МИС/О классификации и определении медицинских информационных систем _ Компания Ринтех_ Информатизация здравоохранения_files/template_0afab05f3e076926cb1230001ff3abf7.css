@@ -1,0 +1,220 @@
+
+
+
+/* Start:/bitrix/templates/sub_site_all/components/bitrix/forum.topic.last/main_forum_top1/style.css*/
+.bx-new-layout-include {width: 100%;}
+.bx-new-layout-include .frm-mp-info {border-bottom: solid 1px #C4C4C4; padding: 1px 0px;}
+
+.bx-new-layout-include .frm-mp-info-inner .frm-mp-date, .bx-new-layout-include .frm-mp-info-inner .frm-mp-name, .bx-new-layout-include .frm-mp-info-inner .frm-mp-post {margin-bottom: 0px font-size: 0.8em;}
+
+.bx-new-layout-include .frm-mp-info-inner, .bx-new-layout-include .frm-mp-officelink {margin: 3px 0px;}
+
+.bx-new-layout-include .frm-mp-delimiter {clear: both;}
+
+.frm-mp-date {
+	color: #82929A;
+	font-size: 0.8em;
+}
+
+#main_forum_top {
+text-decoration:none;
+font-size: 0.85em;
+}
+/* End */
+
+
+
+/* Start:/bitrix/templates/sub_site_all/components/bitrix/menu/vertical_multilevel2/style.css*/
+ul#vertical-multilevel-menu, #vertical-multilevel-menu ul
+{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	width: 214px;
+	font-size:12px;
+	text-align: center;
+}
+
+/*Submenu box*/
+#vertical-multilevel-menu li ul
+{
+	position:absolute;
+	/*top:-999em;*/
+	top:auto;
+	display:none;
+	z-index:500;
+	height:auto;
+	border:1px solid #C1C1C1;
+	border-bottom:none;
+	width:200px;
+}
+
+/* Submenu Items */
+#vertical-multilevel-menu li a
+{
+	display: block;
+	text-decoration: none;
+	font-weight:bold;
+}
+
+/*Items selected*/
+#vertical-multilevel-menu li a.item-selected
+{
+	background-color: #D6D6D6;
+}
+
+/*Items Hover */
+#vertical-multilevel-menu li a:hover
+{
+
+}
+
+/*Rootmenu Items*/
+#vertical-multilevel-menu a.root-item
+{
+	color:#fff;
+	font-weight:bold;
+	font-size:12px;
+	padding:5px 0 7px 35px;
+	background:#61656A url('/bitrix/templates/sub_site_all/components/bitrix/menu/vertical_multilevel2/images/item_bg.gif') 0 0 no-repeat;
+	border:none;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	/*height:26px;
+	overflow:hidden;*/
+}
+
+/*Rootmenu Items hover*/
+#vertical-multilevel-menu a.root-item:hover, #vertical-multilevel-menu a.root-item-selected:hover
+{
+	background:#61656A url('/bitrix/templates/sub_site_all/components/bitrix/menu/vertical_multilevel2/images/item_bg.gif') 0 -26px no-repeat;
+}
+
+/*Rootmenu Items Selected*/
+#vertical-multilevel-menu a.root-item-selected
+{
+	color:#fff;
+	font-weight:bold;
+	font-size:12px;
+	padding:5px 0 7px 35px;
+	background:#61656A url('/bitrix/templates/sub_site_all/components/bitrix/menu/vertical_multilevel2/images/item_bg.gif') 0 -26px no-repeat;
+	border:none;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	/*height:26px;
+	overflow:hidden;*/
+}
+
+/*Parent item*/
+#vertical-multilevel-menu a.parent
+{
+	background: #F5F5F5 url('/bitrix/templates/sub_site_all/components/bitrix/menu/vertical_multilevel2/images/arrow.gif') center right no-repeat;
+	padding-right:10px;
+}
+
+/*Denied items*/
+#vertical-multilevel-menu a.denied
+{
+	background: #F5F5F5 url('/bitrix/templates/sub_site_all/components/bitrix/menu/vertical_multilevel2/images/lock.gif') center right no-repeat;
+	color:#DDDDDD;
+	padding-right:10px;
+}
+
+/* Holly Hack. IE Requirement \*/
+* html ul#vertical-multilevel-menu li { float: left; height: 1%; }
+* html ul#vertical-multilevel-menu li a { height: 1%; }
+/* End */
+
+
+/*Submenu margin*/
+#vertical-multilevel-menu li ul.root-item
+{
+	margin:-27px 0 0 210px;
+}
+
+#vertical-multilevel-menu li ul
+{
+	margin:-27px 0 0 133px;
+}
+
+/*Submenu hide*/
+#vertical-multilevel-menu li:hover ul ul,
+#vertical-multilevel-menu li.jsvhover ul ul,
+#vertical-multilevel-menu li:hover ul ul ul,
+#vertical-multilevel-menu li.jsvhover ul ul ul
+{
+	/*top:-999em;*/
+	display:none;
+}
+
+/*Submenu show*/
+#vertical-multilevel-menu li:hover ul,
+#vertical-multilevel-menu li.jsvhover ul,
+#vertical-multilevel-menu li li:hover ul,
+#vertical-multilevel-menu li li.jsvhover ul,
+#vertical-multilevel-menu li li li:hover ul,
+#vertical-multilevel-menu li li li.jsvhover ul
+{
+	/*z-index:1000;
+	top:auto;*/
+	display:block;
+}
+/* End */
+
+
+
+/* Start:/bitrix/templates/sub_site_all/styles.css*/
+a:link 
+{
+	color: #0096B0;
+}
+a:visited
+{
+	color: #0096B0;
+}
+
+H1
+{
+	color: #0096B0;
+}
+
+H2
+{
+	color: #0096B0;
+}
+/* End */
+
+
+
+/* Start:/bitrix/templates/sub_site_all/template_styles.css*/
+div.top-banners{height: 190px !important;}
+.page-nav{margin-bottom: 30px !important;}
+.p-nav-ref:hover{text-decoration:none !important;}
+
+.special-buttons{position: relative; top:-45px; margin: auto auto; width: 105px;}
+.special-buttons div{float: left; margin: auto auto; margin-left: 10px;}
+
+div.actual ul li div.a-top a { padding:0 14px 0 0; background:transparent url(/img/icons.png) no-repeat scroll right -107px;  }
+/*HISTORY*/
+.history{float:left; width:700px; margin-right:18px;}
+	.history-block{width:700px; padding: 0px 0 5px 0px;}
+		.history-block .year{width:100px; height:30px; background-color: #E6E6E6; margin: auto auto; margin-bottom: 5px; font: bold 14px Arial; text-align: center; padding-top: 15px;}
+		.history-block .story{float:left; border: 1px solid gainsboro; width:280px; margin-top: 25px; margin-bottom: 25px; word-wrap: break-word; padding: 20px; font: 12px Arial;}
+			.history-block .story img{margin-bottom: 20px;}
+		.history-block .story-right{float:right; border: 1px solid gainsboro; width:280px; margin-top: 25px; margin-bottom: 25px; word-wrap: break-word; padding: 20px; font: 12px Arial;}
+			.history-block .story-right img{margin-bottom: 20px;}
+		.delimeter{min-height: 20px; background: transparent url('/bitrix/templates/sub_site_all/img/delim.gif') repeat-y 320px;}
+.special-buttons{position: relative; top:-45px; margin: auto auto; width: 105px;}
+.special-buttons div{float: left; margin: auto auto; margin-left: 10px;}
+div.actual ul li div.a-top a { font:bold 14px Arial, sans-serif; text-transform:uppercase; color:#0091af;  }
+
+div.actual ul li div.a-center ul.blogs li a:hover { color:#0091af; text-decoration:underline; }
+div.actual ul li div.a-center ul li a:hover { color:#0095af; text-decoration:underline; }
+div.actual ul li div.a-center ul.blogs li a.name { color:#0091af; display:inline; }
+
+/**/
+/* End */
+/* /bitrix/templates/sub_site_all/components/bitrix/forum.topic.last/main_forum_top1/style.css */
+/* /bitrix/templates/sub_site_all/components/bitrix/menu/vertical_multilevel2/style.css */
+/* /bitrix/templates/sub_site_all/styles.css */
+/* /bitrix/templates/sub_site_all/template_styles.css */
